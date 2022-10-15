@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# netflix-react-clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este é um projeto feito para estudos e aprimoramento dos conhecimentos em React e em API's.
 
-## Available Scripts
+## Índice
 
-In the project directory, you can run:
+- [Visão geral](#visão-geral)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [Meu processo](#meu-processo)
+  - [Feito com](#feito-com)
+  - [O que aprendi](#o-que-aprendi)
+  - [Desenvolvimento contínuo](#Desenvolvimento-contínuo)
+- [Autor](#autor)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Visão geral
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Screenshot
 
-### `npm test`
+![](./design/desktop-design.jpeg)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![](./design/mobile-design.jpg)
 
-### `npm run build`
+### Links
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Visualização do site: [Visualizar](https://guilherme-rnovaes.github.io/netflix-react-clone/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Meu processo
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Feito com
 
-### `npm run eject`
+- API - [The Movie Database](https://www.themoviedb.org/documentation/api)
+- ReactJs
+- JavaScript
+- HTML
+- CSS
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### O que aprendi
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Aprendi mais sobre o React me desafiando  a criar este clone da Netflix utilizando uma API pela primeira vez. Aprendi muito sobre códigos em React e a facilidade de se trabalhar com componentes. Aprendi a utilizar mais comandos e funcionalidades do "npm", conceitos e funcionalidades de uma API, o que tornou a criação do projeto muito mais fácil, rápida e intuitiva.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+###  Desenvolvimento contínuo
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Continuarei estudando o React, biblioteca a qual estou adorando utilizar por conta da facilidade e praticidade. Os próximos passos são me aprofundar cada vez mais em funções de javaScript, aprender mais sobre o conceito de API's, React Hooks e Routes.
 
-## Learn More
+## Autor
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Portifólio - [Portifólio - Guilherme Novaes](https://guilherme-rnovaes.github.io/Portifolio/)
+- LinkedIn - [Guilherme Rogério Novaes](https://www.linkedin.com/in/guilherme-r-novaes/)
+- GitHub - [Guilherme-RNovaes](https://github.com/Guilherme-RNovaes)
