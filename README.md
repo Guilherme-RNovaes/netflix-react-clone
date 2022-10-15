@@ -20,7 +20,7 @@ Este é um projeto feito para estudos e aprimoramento dos conhecimentos em React
 
 ![](./design/desktop-design.jpeg)
 
-![](./design/mobile-design.jpg)
+![](./design/mobile-design.jpeg)
 
 ### Links
 
